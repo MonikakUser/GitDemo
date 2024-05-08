@@ -1,5 +1,5 @@
 
-public class Hello {
+public class Hello2 {
 
 		
 		public void hello1()
